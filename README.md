@@ -36,22 +36,22 @@ Before running the project, make sure you have the following installed:
 
 2. Set up environment variables
 
-```bash
-PORT=5000
-MONGO_URI=your_mongo_db_connection_string
-ALPHA_VANTAGE_API_KEY=your_alpha_vantage_api_key
-```
+   ```bash
+   PORT=5000
+   MONGO_URI=your_mongo_db_connection_string
+   ALPHA_VANTAGE_API_KEY=your_alpha_vantage_api_key
+   ```
 
 3. Install backend dependencies
-```bash
-cd server
-npm install
-npm start
-```
+   ```bash
+   cd server
+   npm install
+   npm start
+   ```
 
 4. Install frontend dependencies
-```bash
-cd client
-npm install
-npm start
-```
+   ```bash
+   cd client
+   npm install
+   npm start
+   ```
